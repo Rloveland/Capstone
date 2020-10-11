@@ -2,13 +2,14 @@
 
 # Authors:
 Mauricio Macias (mauricio.macias@csu.fullerton.edu) 890741622 <br/>
+Reeder Loveland (reederloveland@csu.fullerton.edu) 888437043 <br/>
 
 ## 0 Installation
 Make sure to clone our project
 
 ## 1 Background 
 
-We are implenting the game **"10,000"** Dice and build ai to play with 
+We are implementing the game **"10,000"** Dice and building ai to play with 
 
 ## 
 
